@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left">Steps in Algorithm :<br><br>    Preprocessing:<br>        Resize and normalize images.<br>        Apply augmentation to increase variability and prevent overfitting.<br><br>    Feature Extraction:<br>        Extract hierarchical and multi-scale features using Inception.<br>        Extract fine-grained and localized features using DenseNet.<br><br>    Feature Fusion:<br>        Concatenate feature maps from the final convolutional layers of Inception and DenseNet.<br>        Apply fully connected layers for dimensionality reduction and classification.<br><br>    Classification:<br>        Use the unified feature representation to classify images into six classes with a Softmax activation function.</p>
+<p align="left">Steps :<br><br>    Preprocessing:<br>        Resize and normalize images.<br>        Apply augmentation to increase variability and prevent overfitting.<br><br>    Feature Extraction:<br>        Extract hierarchical and multi-scale features using Inception.<br>        Extract fine-grained and localized features using DenseNet.<br><br>    Feature Fusion:<br>        Concatenate feature maps from the final convolutional layers of Inception and DenseNet.<br>        Apply fully connected layers for dimensionality reduction and classification.<br><br>    Classification:<br>        Use the unified feature representation to classify images into six classes with a Softmax activation function.</p>
 
 ###
 
@@ -62,7 +62,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">code with</h2>
 
 ###
 
